@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\VueJS"
+		},
+		{
+			"path": "..\\..\\..\\TestDemo"
+		},
+		{
+			"path": "..\\..\\..\\DeMo-TKGD"
+		},
+		{
+			"path": "..\\..\\..\\Test"
+		},
+		{
+			"path": "..\\..\\..\\ontapjs"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ontapjs"
+	}
+}
